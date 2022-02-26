@@ -1,0 +1,76 @@
+{
+    "platillos": [
+      {
+        "id": 1,
+        "nombre": "Small Pizza",
+        "precio": 7,
+        "categoria": 1
+      },
+      {
+        "id": 2,
+        "nombre": "Medium Pizza",
+        "precio": 10,
+        "categoria": 1
+      },
+      {
+        "id": 3,
+        "nombre": "Souffle",
+        "precio": 5,
+        "categoria": 3
+      },
+      {
+        "id": 4,
+        "nombre": "Chocolate Cake",
+        "precio": 6,
+        "categoria": 3
+      },
+      {
+        "id": 5,
+        "nombre": "Soda",
+        "precio": 2,
+        "categoria": 2
+      },
+      {
+        "id": 6,
+        "nombre": "Large Pizza",
+        "precio": 12,
+        "categoria": 1
+      },
+      {
+        "id": 7,
+        "nombre": "Rib Eye 800g",
+        "precio": 18,
+        "categoria": 1
+      },
+      {
+        "id": 8,
+        "nombre": "Beer",
+        "precio": 5,
+        "categoria": 2
+      },
+      {
+        "id": 9,
+        "nombre": "Tequila Shot",
+        "precio": 4,
+        "categoria": 2
+      },
+      {
+        "id": 10,
+        "nombre": "Cheese Cake",
+        "precio": 5,
+        "categoria": 3
+      },
+      {
+        "id": 11,
+        "nombre": "Black Coffee",
+        "precio": 2,
+        "categoria": 2
+      },
+      {
+        "id": 12,
+        "nombre": "Watter Bottle",
+        "precio": 2,
+        "categoria": 2
+      }
+    ]
+  }
